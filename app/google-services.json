@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098437314171",
+    "project_id": "projectcoursspotify",
+    "storage_bucket": "projectcoursspotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098437314171:android:6f503d2e7b6c599b6604de",
+        "android_client_info": {
+          "package_name": "com.example.projectcoursspotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098437314171-0ve8clcjmv3mpdivefd57nv53bhilc2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuhUNvCNjWHEOdVWOBAYg2rDwd_H6h_qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098437314171-0ve8clcjmv3mpdivefd57nv53bhilc2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
